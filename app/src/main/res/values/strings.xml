@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InfoContacts</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_name">This name is incorrect</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name ="title_location_permission"> "Permition to perform call from the App"</string>
+    <string name ="text_location_permission"> "Are agree to give call permiton to this app"</string>
+    <string name ="ok"> "Yes"</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions." </string>
+
+</resources>
